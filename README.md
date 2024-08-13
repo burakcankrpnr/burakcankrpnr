@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakcankrpnr" alt="burakcankrpnr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **OvenClick**
 
 - 🌱 I’m currently learning **JavaScript,TypeScript,React,Node.js**
@@ -29,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcankrpnr&show_icons=true&locale=en" alt="burakcankrpnr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakcankrpnr&" alt="burakcankrpnr" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/burakcankrpnr)](https://github.com/ryo-ma/github-profile-trophy)
