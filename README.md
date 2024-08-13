@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakcankrpnr&" alt="burakcankrpnr" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=burakcankrpnr)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=burakcankrpnr)]
