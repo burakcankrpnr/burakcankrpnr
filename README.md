@@ -21,7 +21,7 @@
   - Developed full-stack features ensuring cross-device compatibility.
 
 ## 💪 Projects
-- **[OvenClick](#)** - Oven System Control Web Application  
+- **[OvenClick](https://github.com/burakcankrpnr/OvenClick_backend)** - Oven System Control Web Application  
   - Built a mobile and web app for remote control of industrial machines.  
   - **Tech Stack:** JavaScript, MySQL, Node.js, Express.js, React, Git.
 
