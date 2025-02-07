@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Node.js, React.js**
 
-- 📫 How to reach me <br/>**burakcan07@icloud.com**
+- 📫 How to reach me <br/>**burikcankorpinar7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
