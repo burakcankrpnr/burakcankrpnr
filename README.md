@@ -29,6 +29,10 @@
   - Designed a full-featured community platform with user authentication and a modern dashboard.  
   - **Tech Stack:** React, Node.js, Express.js, MySQL, Tailwind CSS, Vue.js.
 
+- **[AccValorant Shop](https://www.accvalo.shop/)** - Valorant Account Marketplace  
+  - Developed a secure and user-friendly e-commerce platform for Valorant accounts.  
+  - **Tech Stack:** React, Node.js, Express.js, MySQL, Tailwind CSS.
+
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/burakcankorpinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
