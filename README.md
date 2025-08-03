@@ -35,14 +35,6 @@
   - Modern user authentication and dashboard interface  
   - **Stack:** React, Vue.js, Node.js, Express.js, MySQL, Tailwind CSS
 
-- **[AccValorant Shop](https://www.accvalo.shop/)** – Valorant Account Marketplace  
-  - Secure e-commerce platform for Valorant accounts  
-  - **Stack:** React, Node.js, Express.js, MySQL, Tailwind CSS
-
-- **[Hesap Durağı](https://hesapduragi.com/)** – Online Hesap ve Abonelik Satış Platformu  
-  - Developed user panel, product listing and admin features  
-  - **Stack:** Next.js, React, Tailwind CSS, Node.js, Prisma, PostgreSQL, Docker
-
 ## 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/burakcankorpinar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
