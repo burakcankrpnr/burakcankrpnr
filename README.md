@@ -10,6 +10,9 @@
   <a href="https://burakcankorpinar.dev">
     <img src="https://img.shields.io/badge/Portfolio-burakcankorpinar.dev-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://github.com/burakcankrpnr">
+    <img src="https://img.shields.io/badge/GitHub-burakcankrpnr-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/burakcankorpinar">
     <img src="https://img.shields.io/badge/LinkedIn-Burak%20Can%20Körpınar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -46,141 +49,47 @@ Currently, I work at **StylingPark**. My previous experience includes projects d
 
 <table align="center">
 <tr>
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38"/><br/>
-<sub>React</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38"/><br/>
-<sub>Next.js</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" height="38"/><br/>
-<sub>Vue.js</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38"/><br/>
-<sub>JavaScript</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38"/><br/>
-<sub>TypeScript</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38"/><br/>
-<sub>HTML5</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38"/><br/>
-<sub>CSS3</sub>
-</td>
-
-<td align="center" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38" height="38"/><br/>
-<sub>SASS</sub>
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38"/><br/><sub>Next.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38"/><br/><sub>Vue.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/><br/><sub>TypeScript</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38"/><br/><sub>CSS3</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38"/><br/><sub>SASS</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38"/><br/>
-<sub>Tailwind</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38"/><br/>
-<sub>Node.js</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" height="38"/><br/>
-<sub>Express</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/><br/>
-<sub>Python</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="38" height="38"/><br/>
-<sub>GraphQL</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38"/><br/>
-<sub>MySQL</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38"/><br/>
-<sub>PostgreSQL</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38"/><br/>
-<sub>MongoDB</sub>
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38"/><br/><sub>Node.js</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38"/><br/><sub>Express</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/><br/><sub>Python</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="38"/><br/><sub>GraphQL</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38"/><br/><sub>MySQL</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38"/><br/><sub>PostgreSQL</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38"/><br/><sub>MongoDB</sub></td>
 </tr>
 
 <tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="38" height="38"/><br/>
-<sub>Prisma</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38"/><br/>
-<sub>Docker</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38"/><br/>
-<sub>Git</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="38" height="38"/><br/>
-<sub>Flutter</sub>
-</td>
-
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38"/><br/>
-<sub>Figma</sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/İkas-111111?style=flat-square" alt="İkas"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/Trendyol-F27A1A?style=flat-square" alt="Trendyol"/>
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="38"/><br/><sub>Prisma</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38"/><br/><sub>Docker</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="38"/><br/><sub>Flutter</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38"/><br/><sub>Figma</sub></td>
+<td align="center"><img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/İkas-111111?style=flat-square" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Trendyol-F27A1A?style=flat-square" /></td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads"/>
-<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS"/>
-</p>
-
-<p align="center">
-`React` · `Next.js` · `Vue.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SCSS` · `SASS` · `Tailwind CSS` · `Zustand` · `Node.js` · `Express.js` · `Python` · `REST APIs` · `GraphQL` · `Socket.IO` · `JWT` · `Authentication` · `MySQL` · `PostgreSQL` · `MongoDB` · `Prisma ORM` · `Docker` · `Git` · `Flutter` · `Figma` · `Google Ads` · `Meta Ads` · `Trendyol` · `İkas` · `Shopify`
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
 </p>
 
 ---
@@ -196,8 +105,6 @@ Currently, I work at **StylingPark**. My previous experience includes projects d
 **Full Stack Developer**
 
 E-commerce platform and full-stack development.
-
-**Focus**
 
 * Frontend & Backend
 * E-Commerce
@@ -220,8 +127,6 @@ E-commerce platform and full-stack development.
 
 E-commerce, influencer and custom software solutions.
 
-**Focus**
-
 * React / Next.js
 * TypeScript
 * Node.js
@@ -243,8 +148,6 @@ E-commerce, influencer and custom software solutions.
 
 Modern websites and full-stack business applications.
 
-**Focus**
-
 * Corporate Websites
 * Full Stack
 * Frontend / Backend
@@ -265,8 +168,6 @@ Modern websites and full-stack business applications.
 
 Backend-oriented software and web development.
 
-**Focus**
-
 * Node.js
 * MySQL
 * JavaScript
@@ -283,30 +184,11 @@ Backend-oriented software and web development.
 
 ---
 
-## 📊 Profile Highlights
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-<strong>10+</strong><br/>
-Projects
-</td>
-
-<td align="center" width="200">
-<strong>4</strong><br/>
-Certificates
-</td>
-
-<td align="center" width="200">
-<strong>6+</strong><br/>
-Years of Learning & Development
-</td>
-</tr>
-</table>
-
----
-
 # 💻 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛍️ StylingPark
 
@@ -320,7 +202,9 @@ My work involves developing and improving the platform's technical infrastructur
 
 🔗 [Visit Website](https://stylingpark.com/)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛍️ Mavelone
 
@@ -328,13 +212,17 @@ My work involves developing and improving the platform's technical infrastructur
 
 A modern, responsive and SEO-focused digital commerce platform developed within the StylingPark ecosystem.
 
-The project focuses on building a scalable foundation for modern e-commerce operations, product management, customer experience and future integrations.
+The project focuses on scalable e-commerce operations, product management, customer experience and future integrations.
 
 **Developed at:** StylingPark
 
 🔗 [Visit Website](https://mavelone.com/)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎮 HabboPÖH
 
@@ -348,7 +236,9 @@ Features include room tracking, badge store, rank management, company management
 
 🔗 [Visit Website](https://habbopoh.com/)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌐 Acc Studio
 
@@ -360,7 +250,11 @@ Modern corporate website developed for a creative agency with a focus on digital
 
 🔗 [Visit Website](https://accstudio.co/)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Psikolog Emine Yıldırım
 
@@ -372,7 +266,9 @@ A custom-built corporate website designed to present online psychological counse
 
 🔗 [Visit Website](https://psikologemineyildirim.com/)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏗️ Akdeniz Konsept
 
@@ -384,7 +280,11 @@ Corporate website developed for an architecture and interior design company, foc
 
 🔗 [Visit Website](https://akdenizkonsept.com/)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🏭 Mercado Plastik
 
@@ -396,7 +296,9 @@ Modern corporate platform developed for Mercado Plastik, providing a clear prese
 
 🔗 [Visit Website](https://mercadoplastik.com/)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📣 Base of Influencer
 
@@ -408,7 +310,11 @@ A full-featured influencer marketing platform connecting brands and influencers 
 
 🔗 [Visit Website](https://baseofinfluencer.com/)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📱 Base of Influencer App
 
@@ -420,16 +326,35 @@ Mobile-focused application developed as part of the Base of Influencer ecosystem
 
 🔗 [Visit Website](https://app.baseofinfluencer.com/)
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+More projects, case studies and development work are available on my portfolio.
+
+🔗 [View Portfolio](https://burakcankorpinar.dev/#Portofolio)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakcankrpnr&show_icons=true&locale=en&theme=transparent" alt="Burak Can Körpınar GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=burakcankrpnr&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Most Used Languages" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=burakcankrpnr&show_icons=true&hide_border=true&theme=transparent"
+    alt="Burak Can Körpınar GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakcankrpnr&layout=compact&hide_border=true&theme=transparent"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
@@ -438,20 +363,24 @@ Mobile-focused application developed as part of the Base of Influencer ecosystem
 
 <p align="center">
 
+<a href="https://github.com/burakcankrpnr">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 <a href="https://burakcankorpinar.dev">
-<img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://linkedin.com/in/burakcankorpinar">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/burakcankorpinar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/burakcankorpinar">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/burakcankorpinar/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:burikcankorpinar7@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
