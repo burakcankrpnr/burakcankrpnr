@@ -44,73 +44,143 @@ Currently, I work at **StylingPark**. My previous experience includes projects d
 
 ## 🛠️ Technologies, Tools & Platforms
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38"/><br/>
+<sub>React</sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" height="38" alt="Vue.js"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38" height="38" alt="SASS"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS"/>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38"/><br/>
+<sub>Next.js</sub>
+</td>
 
-<br/><br/>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="38" height="38"/><br/>
+<sub>Vue.js</sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" height="38" alt="Express.js"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="38" height="38" alt="GraphQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="38" height="38" alt="Prisma"/>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38"/><br/>
+<sub>JavaScript</sub>
+</td>
 
-<br/><br/>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38"/><br/>
+<sub>TypeScript</sub>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="Docker"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="38" height="38" alt="Flutter"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38" alt="Figma"/>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" height="38"/><br/>
+<sub>HTML5</sub>
+</td>
 
-</p>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" height="38"/><br/>
+<sub>CSS3</sub>
+</td>
 
-<p align="center">
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="38" height="38"/><br/>
+<sub>SASS</sub>
+</td>
+</tr>
 
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38"/><br/>
+<sub>Tailwind</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38"/><br/>
+<sub>Node.js</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38" height="38"/><br/>
+<sub>Express</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/><br/>
+<sub>Python</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="38" height="38"/><br/>
+<sub>GraphQL</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="38" height="38"/><br/>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38"/><br/>
+<sub>PostgreSQL</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38" height="38"/><br/>
+<sub>MongoDB</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="38" height="38"/><br/>
+<sub>Prisma</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38"/><br/>
+<sub>Docker</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38"/><br/>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="38" height="38"/><br/>
+<sub>Flutter</sub>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38" height="38"/><br/>
+<sub>Figma</sub>
+</td>
+
+<td align="center">
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify"/>
+</td>
+
+<td align="center">
 <img src="https://img.shields.io/badge/İkas-111111?style=flat-square" alt="İkas"/>
+</td>
+
+<td align="center">
 <img src="https://img.shields.io/badge/Trendyol-F27A1A?style=flat-square" alt="Trendyol"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
 <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads"/>
 <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Ads"/>
-
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS"/>
 </p>
 
 <p align="center">
-
-`React` · `Next.js` · `Vue.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SCSS` · `SASS` · `Tailwind CSS` · `Zustand`
-`Node.js` · `Express.js` · `Python` · `REST APIs` · `GraphQL` · `Socket.IO` · `JWT` · `Authentication`
-`MySQL` · `PostgreSQL` · `MongoDB` · `Prisma ORM` · `Docker` · `Git` · `Flutter` · `Figma`
-`Google Ads` · `Meta Ads` · `Trendyol` · `İkas` · `Shopify`
-
+`React` · `Next.js` · `Vue.js` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `SCSS` · `SASS` · `Tailwind CSS` · `Zustand` · `Node.js` · `Express.js` · `Python` · `REST APIs` · `GraphQL` · `Socket.IO` · `JWT` · `Authentication` · `MySQL` · `PostgreSQL` · `MongoDB` · `Prisma ORM` · `Docker` · `Git` · `Flutter` · `Figma` · `Google Ads` · `Meta Ads` · `Trendyol` · `İkas` · `Shopify`
 </p>
 
 ---
@@ -349,32 +419,6 @@ Mobile-focused application developed as part of the Base of Influencer ecosystem
 **Developed at:** Creamake E-Commerce Agency
 
 🔗 [Visit Website](https://app.baseofinfluencer.com/)
-
----
-
-### 🛍️ Home London Breeze
-
-**Shopify E-Commerce Platform**
-
-Shopify-based e-commerce platform developed for a luxury fashion and lifestyle brand.
-
-**Developed at:** Creamake E-Commerce Agency
-
-🔗 [Visit Website](https://homelondonbreeze.com/)
-
----
-
-### 🔥 OvenClick
-
-**Industrial Oven Monitoring & Control System**
-
-Web and mobile software solution designed for remote monitoring and control of industrial machinery.
-
-**Tech Stack**
-
-`JavaScript` · `Node.js` · `Express.js` · `MySQL` · `React` · `Git`
-
-🔗 [GitHub Repository](https://github.com/burakcankrpnr/OvenClick_backend)
 
 ---
 
