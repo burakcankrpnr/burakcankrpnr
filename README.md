@@ -342,23 +342,6 @@ More projects, case studies and development work are available on my portfolio.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=burakcankrpnr&show_icons=true&hide_border=true&theme=transparent"
-    alt="Burak Can Körpınar GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakcankrpnr&layout=compact&hide_border=true&theme=transparent"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
