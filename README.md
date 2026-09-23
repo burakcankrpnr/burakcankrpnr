@@ -11,7 +11,7 @@
   </p>
 
   <img
-  src="./terminal.svg?version=2"
+  src="./terminal.svg?version=3"
   alt="Animated Developer Terminal"
   width="800"
 />
