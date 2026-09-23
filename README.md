@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="./terminal.svg?version=10"
+  src="./terminal.svg?version=11,"
   alt="Animated Developer Terminal"
   width="800"
 />
