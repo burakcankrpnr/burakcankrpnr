@@ -1,5 +1,9 @@
 <div align="center">
-
+<img
+  src="./terminal.svg?version=10"
+  alt="Animated Developer Terminal"
+  width="800"
+/>
   <h1>Hi 👋, I'm Burak Can Körpınar</h1>
 
   <p>
@@ -10,11 +14,7 @@
     I turn ideas into modern, scalable and user-friendly digital experiences.
   </p>
 
-  <img
-  src="./terminal.svg?version=10"
-  alt="Animated Developer Terminal"
-  width="800"
-/>
+  
 
 
 <h3 align="center">Full Stack Developer & Computer Engineer from Turkey 🇹🇷</h3>
