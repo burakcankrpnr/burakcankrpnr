@@ -398,3 +398,6 @@ More projects, case studies and development work are available on my portfolio.
 <p align="center">
   <i>Always learning. Always building.</i>
 </p>
+
+## Updates
+- Repository documentation update
