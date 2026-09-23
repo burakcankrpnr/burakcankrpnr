@@ -18,6 +18,7 @@
         align-items: center;
       "
     >
+
       <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&amp;display=swap');
 
@@ -28,14 +29,14 @@
         .window {
           width: 100%;
           max-width: 700px;
-          height: 350px;
           border-radius: 16px;
-          background: linear-gradient(
-            135deg,
-            rgba(7, 27, 20, 0.95) 0%,
-            rgba(3, 15, 12, 1) 58%,
-            rgba(4, 26, 30, 0.95) 100%
-          );
+          background:
+            linear-gradient(
+              135deg,
+              rgba(7, 27, 20, 0.95) 0%,
+              rgba(3, 15, 12, 1) 58%,
+              rgba(4, 26, 30, 0.95) 100%
+            );
           border: 1px solid rgba(16, 185, 129, 0.3);
           box-shadow:
             0 15px 35px rgba(0, 0, 0, 0.5),
@@ -47,15 +48,20 @@
           position: relative;
         }
 
+        /* =====================================================
+           SCANLINE
+           ===================================================== */
+
         .scanline {
           position: absolute;
           inset: 0;
-          background: linear-gradient(
-            to bottom,
-            transparent,
-            rgba(6, 182, 212, 0.1),
-            transparent
-          );
+          background:
+            linear-gradient(
+              to bottom,
+              transparent,
+              rgba(6, 182, 212, 0.1),
+              transparent
+            );
           opacity: 0;
           animation: scan 4s ease-in-out infinite;
           pointer-events: none;
@@ -82,12 +88,15 @@
           }
         }
 
+        /* =====================================================
+           HEADER
+           ===================================================== */
+
         .header {
-          height: 45px;
           display: flex;
           align-items: center;
           justify-content: space-between;
-          padding: 0 16px;
+          padding: 12px 16px;
           border-bottom: 1px solid rgba(16, 185, 129, 0.15);
           background: rgba(2, 12, 9, 0.6);
         }
@@ -102,6 +111,7 @@
           width: 12px;
           height: 12px;
           border-radius: 50%;
+          flex: 0 0 auto;
         }
 
         .dot.red {
@@ -152,14 +162,17 @@
           }
         }
 
+        /* =====================================================
+           BODY
+           ===================================================== */
+
         .body {
-          height: 265px;
-          padding: 20px 24px;
+          padding: 24px;
           display: flex;
           font-size: 13px;
-          line-height: 23px;
+          line-height: 1.8;
           position: relative;
-          overflow: hidden;
+          min-height: 258px;
         }
 
         .gutter {
@@ -173,35 +186,44 @@
         }
 
         .gutter span {
-          display: block;
-          height: 23px;
-          line-height: 23px;
+          height: 23.4px;
+          line-height: 23.4px;
         }
 
         .code {
           display: flex;
           flex-direction: column;
           min-width: 0;
-          flex: 1;
           overflow: hidden;
         }
 
+        /*
+         * IMPORTANT:
+         * Kod satırları artık opacity: 0 ile başlamıyor.
+         * Böylece GitHub README SVG render/cache sırasında
+         * 7. satırdan başlama problemi yaşanmıyor.
+         */
+
         .line {
-          display: block;
           opacity: 1;
-          transform: none;
-          height: 23px;
-          line-height: 23px;
-          white-space: nowrap;
+          transform: translateX(0);
+          white-space: pre;
+          height: 23.4px;
+          line-height: 23.4px;
         }
+
+        /* =====================================================
+           CURSOR
+           ===================================================== */
 
         .cursor {
           display: inline-block;
           width: 8px;
           height: 15px;
-          background: #10b981;
+          background-color: #10b981;
           vertical-align: middle;
           margin-left: 4px;
+          opacity: 1;
           animation: blink 1s step-end infinite;
         }
 
@@ -216,12 +238,15 @@
           }
         }
 
+        /* =====================================================
+           FOOTER
+           ===================================================== */
+
         .footer {
-          height: 40px;
           display: flex;
           align-items: center;
           justify-content: space-between;
-          padding: 0 16px;
+          padding: 8px 16px;
           border-top: 1px solid rgba(16, 185, 129, 0.15);
           background: rgba(16, 185, 129, 0.09);
           color: #4b5563;
@@ -239,14 +264,13 @@
           color: #10b981;
         }
 
-        @media (max-width: 650px) {
-          .window {
-            height: 350px;
-          }
+        /* =====================================================
+           RESPONSIVE
+           ===================================================== */
 
+        @media (max-width: 650px) {
           .header {
-            height: 42px;
-            padding: 0 12px;
+            padding: 10px 12px;
           }
 
           .title {
@@ -259,7 +283,6 @@
           }
 
           .body {
-            height: 268px;
             padding: 18px;
             font-size: 10px;
           }
@@ -275,32 +298,44 @@
           }
 
           .footer {
-            height: 40px;
             font-size: 9px;
-            padding: 0 12px;
+            padding: 7px 12px;
           }
         }
       </style>
 
+      <!-- =====================================================
+           TERMINAL WINDOW
+           ===================================================== -->
+
       <div class="window">
+
         <div class="scanline"></div>
 
+        <!-- HEADER -->
         <div class="header">
+
           <div class="dots">
             <div class="dot red"></div>
             <div class="dot yellow"></div>
             <div class="dot green"></div>
           </div>
 
-          <div class="title">burakcankorpinar.dev</div>
+          <div class="title">
+            burakcankorpinar.dev
+          </div>
 
           <div class="status">
             <div class="status-dot"></div>
             available
           </div>
+
         </div>
 
+        <!-- CODE BODY -->
         <div class="body">
+
+          <!-- LINE NUMBERS -->
           <div class="gutter">
             <span>1</span>
             <span>2</span>
@@ -314,21 +349,66 @@
             <span>10</span>
           </div>
 
+          <!-- CODE -->
           <div class="code">
-            <div class="line" style="color:#e2e8f0;">const developer = {</div>
-            <div class="line" style="color:#a3e6d3;">  name: "Burak Can Körpınar",</div>
-            <div class="line" style="color:#a3e6d3;">  role: "Full Stack Developer &amp; Computer Engineer",</div>
-            <div class="line" style="color:#a3e6d3;">  stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],</div>
-            <div class="line" style="color:#93c5fd;">  expertise: ["E-Commerce", "REST APIs", "Docker", "SEO"],</div>
-            <div class="line" style="color:#f59e0b;">  focus: "scalable &amp; user-friendly digital products",</div>
-            <div class="line" style="color:#e2e8f0;">  build: () =&gt; {</div>
-            <div class="line" style="color:#c084fc;">    return "modern digital experiences";</div>
-            <div class="line" style="color:#e2e8f0;">  }</div>
-            <div class="line" style="color:#e2e8f0;">}<span class="cursor"></span></div>
+
+            <div
+              class="line"
+              style="color: #e2e8f0;"
+            >const developer = {</div>
+
+            <div
+              class="line"
+              style="color: #a3e6d3;"
+            >  name: "Burak Can Körpınar",</div>
+
+            <div
+              class="line"
+              style="color: #a3e6d3;"
+            >  role: "Full Stack Developer &amp; Computer Engineer",</div>
+
+            <div
+              class="line"
+              style="color: #a3e6d3;"
+            >  stack: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js"],</div>
+
+            <div
+              class="line"
+              style="color: #93c5fd;"
+            >  expertise: ["E-Commerce", "REST APIs", "Docker", "SEO"],</div>
+
+            <div
+              class="line"
+              style="color: #f59e0b;"
+            >  focus: "scalable &amp; user-friendly digital products",</div>
+
+            <div
+              class="line"
+              style="color: #e2e8f0;"
+            >  build: () =&gt; {</div>
+
+            <div
+              class="line"
+              style="color: #c084fc;"
+            >    return "modern digital experiences";</div>
+
+            <div
+              class="line"
+              style="color: #e2e8f0;"
+            >  }</div>
+
+            <div
+              class="line"
+              style="color: #e2e8f0;"
+            >}<span class="cursor"></span></div>
+
           </div>
+
         </div>
 
+        <!-- FOOTER -->
         <div class="footer">
+
           <div class="footer-left">
             <span class="green-text">⎇ main</span>
             <span>Ln 10, Col 2</span>
@@ -338,8 +418,11 @@
             <span class="green-text">● Live</span>
             <span>TypeScript</span>
           </div>
+
         </div>
+
       </div>
+
     </div>
   </foreignObject>
 </svg>
