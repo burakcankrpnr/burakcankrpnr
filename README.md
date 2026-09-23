@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak Can Körpınar</h1>
 
+  <div>
+    <img src="./terminal.svg" alt="Animated Developer Terminal" width="800" />
+  </div>
+
 <h3 align="center">Full Stack Developer & Computer Engineer from Turkey 🇹🇷</h3>
 
 <p align="center">
