@@ -11,10 +11,10 @@
   </p>
 
   <img
-    src="./terminal.svg"
-    alt="Animated Developer Terminal"
-    width="800"
-  />
+  src="./terminal.svg?version=2"
+  alt="Animated Developer Terminal"
+  width="800"
+/>
 
 
 <h3 align="center">Full Stack Developer & Computer Engineer from Turkey 🇹🇷</h3>
