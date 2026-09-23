@@ -101,23 +101,18 @@
         }
         
         .line {
-  opacity: 1;
-  transform: translateX(0);
-  animation: reveal 0.4s ease forwards;
-  white-space: pre;
-}
+          opacity: 0;
+          transform: translateX(-10px);
+          animation: reveal 0.4s ease forwards;
+          white-space: pre;
+        }
 
-@keyframes reveal {
-  from {
-    opacity: 1;
-    transform: translateX(-10px);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
+        @keyframes reveal {
+          to {
+            opacity: 1;
+            transform: translateX(0);
+          }
+        }
 
         .l1 { animation-delay: 0.4s; }
         .l2 { animation-delay: 0.8s; }
